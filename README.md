@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @diyaulhaqi94
-- 👀 I’m interested in ...
+- 👀 I’m interested in laravel 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me haqidoeloe@gmail.com
 
 <!---
 diyaulhaqi94/diyaulhaqi94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
